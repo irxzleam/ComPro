@@ -6,11 +6,8 @@ int main(){
     int Even=0;
     int Odd=0;
     int num;
-
-    
     cout << "Enter an integer: ";
     cin >> num;
-
 
     while(num!=0)
     {
