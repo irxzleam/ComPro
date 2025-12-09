@@ -9,6 +9,7 @@ int main(){
     cout << "Enter an integer: ";
     cin >> num;
 
+    
     while(num!=0)
     {
         if (num%2==0)
